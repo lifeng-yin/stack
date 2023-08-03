@@ -1,0 +1,4 @@
+.stack-parent {
+  display: flex;
+  flex-direction: column-reverse;
+}
